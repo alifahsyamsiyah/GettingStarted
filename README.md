@@ -1,4 +1,4 @@
-# GettingStarted
+# Database Inductive Miner
 a ProM plug-in that connect DB-XES databases to Inductive Miner algorithm
 
 # How to run
